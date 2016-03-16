@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Gis
+        psr4_prefix: Gis
+        src_path: app

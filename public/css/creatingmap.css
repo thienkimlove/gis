@@ -1,0 +1,223 @@
+.fancybox-wrap{
+	/*width:95% !important*/
+}
+.creatingmap-help a{
+	float: right;
+}
+.form-group {
+	display: block;
+}
+.form-control{
+	padding:0px 0px;
+	display:inline-block;
+}
+.form-margin{
+	margin-top:5px;
+	margin-bottom:5px;
+}
+legend {
+	background-color:white;
+	font-size:14px;
+	width:initial;
+	margin-left:10px;
+}
+.panel-primary{
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.col-md-6{
+	/*min-width:450px!important*/
+}
+.table>tbody>tr>td {
+	padding: 2px;
+}
+.table>thead>tr>th{
+	padding:2px;
+}
+table#t{
+	border: 3px solid  #337AB7;
+	padding:2px;
+	margin-bottom: 5px;
+
+}
+table#t tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t tr:nth-child(odd) {
+   background-color:#fff;
+}
+table#t th	{
+	border:1px solid back;
+    background-color: #337AB7;
+    color: black;
+}
+.panel-body{
+	padding: 5px 10px 5px;
+}
+.button-submit{
+	margin:2px;
+}
+#editmodjqGrid{
+	z-index : 99999 !important;
+	top: 30% !important;
+	left:25% !important;
+}
+#alertmod_jqGrid{
+	z-index : 99999 !important;
+	top: 30% !important;
+	left:25% !important;
+}
+#delmodjqGrid{
+	z-index: 99999 !important;
+	top: 30% !important;
+	left:25% !important;
+}
+.ui-jqdialog .ui-jqdialog-titlebar{
+	height:auto;
+}
+.fm-button{
+	height:auto;
+}
+.creatingmap-wapper{
+	background-color: #FFFBD3;
+	padding-top: 4px;
+}
+.creatingmap-help{
+	text-align: right;	 
+}
+
+.creatingmap-help a{	
+/* 	color:red; */
+/* 	font-size:14px"	 */
+}
+.creatingmap-title{
+	background-color: #337ab7;
+	font-weight: bold;
+	padding: 2px;
+}
+.creatingmap-subtitle{
+	padding-left: 40px;		
+}
+.creatingmap-name{
+	padding-left: 25px;		
+}
+.creatingmap-wapper .date{
+	padding-left: 45px;	
+}
+legend {
+	margin-bottom: 5px;
+}
+#page-wrapper{
+	padding: 0;
+}
+.legend-level2{
+	padding-left: 26px;
+}
+.table-option{
+	margin-top: 10px;
+}
+.button-group{
+	margin-top: 15px;	
+	float: right;
+}
+.table-name{
+	margin-top: 10px;
+}
+.textarea{
+	margin-right: 10px;	
+	margin-left: 10px;	
+	margin-bottom:10px;
+}
+.maptext,.maptext label,.maptext p,.table-name,.table-option, .table-name select{
+	color: #999;
+  	font-weight: 400;
+  	font-size: 11px;
+}
+.table-fertilizer .ui-jqgrid-bdiv{
+	max-height: 100px;
+}
+#jqGridPager4_center{
+	display: none;
+}
+#fertilizer_notes{
+	min-height: 30px;
+}
+.disable{
+	display: none;
+}
+.confirm-group{
+
+}
+.confirm-button-group{
+	margin-top: 16px;
+}
+.total-group{
+	text-align: center;
+}
+.total-group p{
+	background: #eee;
+	border: 1px solid transparent;
+	height: 30px;
+	width: 220px;
+	margin: 0 auto;
+	border-color: #0288D1;
+	padding-top: 5px;
+	font-weight: bold;
+}
+.box-group{
+	background-color: #fff;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+	box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+.relative{
+	position: relative;
+}
+#cover {
+	position: absolute;
+	height: 100%;
+	width: 98%;
+	z-index: 1; /* make sure logout_box has a z-index of 2 */
+	background-color: #eee;
+	opacity: 0.3;
+	display: none;
+}
+.machine_type_2_cover {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	z-index: 1;
+	background-color: #eee;
+	opacity: 0.1;
+	display: none;
+}
+#analysis_type_2_cover {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	z-index: 1;
+	background-color: #eee;
+	opacity: 0.1;
+	display: none;
+}
+.analysis_type_2{
+	margin-left: 20px;
+}
+.creatingmap-wapper select{
+	max-width: 500px;
+}
+.general-row{
+	margin: 8px 0;
+	padding:0;
+}
+.general-group{
+	padding-left: 0;
+	padding-right: 0;
+}
+.mesh_size{
+	width: 80px !important;
+}
+.fertilizer-popup-select{
+    text-align: left !important;
+}

@@ -1,0 +1,58 @@
+{
+	"name": "laravel/laravel",
+	"description": "The Laravel Framework.",
+	"keywords": ["framework", "laravel"],
+	"license": "MIT",
+	"type": "project",
+	"require": {
+		"laravel/framework": "5.1.23",
+		"laracasts/flash": "1.3.3",
+		"illuminate/html": "5.0.0",
+		"prettus/l5-repository": "2.1.5",
+		"apache/log4php": "2.3.0",
+		"cviebrock/eloquent-sluggable": "3.1.1",
+		"sebastian/phpcpd": "2.0.2",
+		"barryvdh/laravel-ide-helper": "2.1.0",
+        	"xaoc/laravel-js-localization": "dev-master",
+		"phaza/laravel-postgis": "2.14"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "4.8.16",
+		"phpspec/phpspec": "2.3.0"
+	},
+	"autoload": {
+		"classmap": [
+			"database"
+		],
+		"psr-4": {
+			"Gis\\": "app/"
+		},
+	    "files": [
+	        "app/Helpers/Common.php",
+	         "app/Helpers/Messages.php",
+	        "app/Helpers/Cryptor.php"
+	    ]
+	},
+	"autoload-dev": {
+		"classmap": [
+			"tests/TestCase.php"
+		]
+	},
+	"scripts": {
+		"post-install-cmd": [
+			"php artisan clear-compiled",
+			"php artisan optimize"
+		],
+		"post-update-cmd": [
+			"php artisan clear-compiled",
+			"php artisan optimize"
+		],
+		"post-create-project-cmd": [
+			"php -r \"copy('.env.example', '.env');\"",
+			"php artisan key:generate"
+		]
+	},
+	"config": {
+		"preferred-install": "dist"
+	}
+}

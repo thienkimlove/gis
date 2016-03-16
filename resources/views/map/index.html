@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="http://openlayers.org/en/v3.5.0/css/ol.css" type="text/css">
+    <style>
+      .map {
+        height: 400px;
+        width: 100%;
+      }
+    </style>
+    <script src="http://openlayers.org/en/v3.5.0/build/ol.js" type="text/javascript"></script>
+    <title>OpenLayers 3 example</title>
+  </head>
+  <body>
+    <h2>My Map</h2>
+    <div id="map" class="map"></div>
+    <div id="legene" class="legend"></div>
+    <script type="text/javascript">
+		var layers = [
+			new ol.layer.Tile({
+				source: new ol.source.TileWMS({
+					url: 'http://192.168.0.202:8888/cgi-bin/mapserv.exe?',
+					params: {
+						'LAYERS': 'states'
+					}
+				})
+			})
+		];
+
+		var map = new ol.Map({
+			controls: ol.control.defaults().extend([
+				new ol.control.ScaleLine({
+					units: ''
+				})
+			]),
+			layers: layers,
+			target: 'map',
+			view: new ol.View({
+				projection: 'EPSG:4326',
+				center: [0, 0],
+				zoom: 2
+			})
+		});
+
+
+		map.on('singleclick', function(evt){
+			var coord = evt.coordinate;
+			var transformed_coordinate = ol.proj.transform(coord, "EPSG:900913", "EPSG:4326");
+			console.log(transformed_coordinate);
+		})
+
+		//global variable
+		var drawLayer;
+
+		//Inside init() function
+		drawLayer = new ol.layer.Vector({
+    		source : new ol.source.Vector(),
+			style : new ol.style.Style({
+				fill : new ol.style.Fill({
+					color : 'rgba(255, 255, 255, 0.2)'
+				}),
+			stroke : new ol.style.Stroke({
+				color : '#ffcc33',
+				width : 2
+			}),
+		image : new ol.style.Circle({
+				radius : 7,
+				fill : new ol.style.Fill({
+					color : '#ffcc33'
+				})
+			})
+		})
+	});
+
+map.addLayer(drawLayer);
+
+var draw;
+	function startDraw(type) {
+    if (draw != null) {
+		cancelDraw();
+	}
+	
+	draw = new ol.interaction.Draw({
+		source:drawLayer.getSource(),
+		type:type
+	});
+	map.addInteraction(draw);
+
+}
+
+function cancelDraw() {
+	if(draw == null)return;
+	
+	map.removeInteraction(draw);
+}
+
+
+    </script>
+    <button class='draw-point' onclick='startDraw("Point")' style='position: absolute; top:340px;'>Draw Points</button>
+	<button class='draw-line' onclick='startDraw("LineString")' style='position: absolute; top:360px;'>Draw Lines</button>
+	<button class='draw-polygon' onclick='startDraw("Polygon")' style='position: absolute; top:380px;'>Draw Polygon</button>
+	<button class='release-mouse' onclick='startDraw("")' style='position: absolute; top:400px;'>Release mouse</button>
+
+
+    <h3><u>Legend</u></h3><p>
+    <img src="http://192.168.0.202:8888/cgi-bin/mapserv.exe?&SERVICE=WMS&VERSION=1.1.1&layer=states&REQUEST=getlegendgraphic&FORMAT=image/png">
+  </body>
+</html>

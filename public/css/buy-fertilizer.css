@@ -1,0 +1,23 @@
+.help-button{
+    float:right;
+}
+td{
+    text-align: left;
+    border-left: 1px solid #ffffff;
+}
+.title-table{
+    background-color:#337AB7;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 0;
+}
+.color-message {
+    color: #f71752;
+}
+.background-color1{
+    background-color: #d9edf7;
+}
+.background-color2{
+    background-color: #e7f4f9 !important;
+}

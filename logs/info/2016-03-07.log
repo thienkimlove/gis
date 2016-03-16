@@ -1,0 +1,59 @@
+年月日	時刻	ユーザコード	処理内容
+2016/03/07	08:56:11	7	User login to application
+2016/03/07	08:56:11	7	User opens initial screen
+2016/03/07	08:56:16	7	User clicks on a layer
+2016/03/07	08:57:03	7	User selects mode ALL and open form to create new a fertilizer map
+2016/03/07	08:57:03	7	User clicks on a layer
+2016/03/07	08:57:26	7	Specify condition to create fertilizer map
+2016/03/07	08:57:46	7	Specify condition to create fertilizer map
+2016/03/07	08:57:54	7	Specify condition to create fertilizer map
+2016/03/07	08:57:56	7	Open specified screen to create conditions for fertilizer map 
+2016/03/07	08:58:45	7	Create new a layer
+2016/03/07	08:58:45	7	Specify condition to create fertilizer map
+2016/03/07	08:58:50	7	User clicks on a layer
+2016/03/07	08:59:00	7	User clicks on a layer
+2016/03/07	08:59:04	7	User clicks on a layer
+2016/03/07	08:59:15	7	User clicks on a layer
+2016/03/07	08:59:34	7	Update layer information
+2016/03/07	08:59:38	7	User clicks on a layer
+2016/03/07	08:59:42	7	User clicks on a layer
+2016/03/07	08:59:58	7	Update layer information
+2016/03/07	09:00:54	7	User clicks on a layer
+2016/03/07	09:00:57	7	User clicks on a layer
+2016/03/07	09:01:03	7	Create a record for history of download fertilizer map
+2016/03/07	09:01:04	7	Download fertilizer map
+2016/03/07	09:01:04	7	Download fertilizer map
+2016/03/07	09:06:27	7	User opens initial screen
+2016/03/07	09:06:31	7	User clicks on a layer
+2016/03/07	10:50:42	NULL	User doesn't agree with term of use
+2016/03/07	10:50:42	158	Guest login to application
+2016/03/07	17:25:39	7	User login to application
+2016/03/07	17:25:39	7	User opens initial screen
+2016/03/07	17:25:49	7	User clicks on a layer
+2016/03/07	17:27:16	7	User clicks on a layer
+2016/03/07	17:27:19	7	User clicks on a layer
+2016/03/07	17:27:42	7	User selects mode ALL and open form to create new a fertilizer map
+2016/03/07	17:27:42	7	User clicks on a layer
+2016/03/07	17:28:03	7	Specify condition to create fertilizer map
+2016/03/07	17:28:07	7	Open specified screen to create conditions for fertilizer map 
+2016/03/07	17:30:33	7	Create new a layer
+2016/03/07	17:30:33	7	Specify condition to create fertilizer map
+2016/03/07	17:30:40	7	User clicks on a layer
+2016/03/07	17:31:05	7	User logout
+2016/03/07	18:30:49	7	User login to application
+2016/03/07	18:30:49	7	User opens initial screen
+2016/03/07	18:30:51	7	User clicks on a layer
+2016/03/07	20:52:33	7	User login to application
+2016/03/07	20:52:33	7	User opens initial screen
+2016/03/07	20:52:37	7	User clicks on a layer
+2016/03/07	20:53:37	7	User clicks on a layer
+2016/03/07	20:53:39	7	User clicks on a layer
+2016/03/07	20:53:41	7	User clicks on a layer
+2016/03/07	20:53:54	7	User clicks on a layer
+2016/03/07	20:53:58	7	User clicks on a layer
+2016/03/07	20:54:23	7	User logout
+2016/03/07	20:55:03	NULL	User doesn't agree with term of use
+2016/03/07	20:55:03	158	Guest login to application
+2016/03/07	20:55:05	158	User agrees with term of use
+2016/03/07	20:55:05	158	User opens initial screen
+2016/03/07	21:00:00	158	User logout

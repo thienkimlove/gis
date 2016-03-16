@@ -1,0 +1,300 @@
+年月日	時刻	ユーザコード	処理内容
+2016/02/10	08:52:15	NULL	User doesn't agree with term of use
+2016/02/10	08:52:15	158	Guest login to application
+2016/02/10	08:52:18	158	User agrees with term of use
+2016/02/10	08:52:18	158	User opens initial screen
+2016/02/10	08:52:31	158	User logout
+2016/02/10	08:59:36	NULL	User doesn't agree with term of use
+2016/02/10	08:59:36	158	Guest login to application
+2016/02/10	08:59:39	158	User agrees with term of use
+2016/02/10	08:59:39	158	User opens initial screen
+2016/02/10	08:59:49	158	User logout
+2016/02/10	09:11:06	NULL	User doesn't agree with term of use
+2016/02/10	09:11:06	158	Guest login to application
+2016/02/10	09:11:10	158	User doesn't agree with term of use
+2016/02/10	10:00:45	7	User login to application
+2016/02/10	10:00:45	7	User opens initial screen
+2016/02/10	10:52:28	7	User opens initial screen
+2016/02/10	10:52:29	7	User opens initial screen
+2016/02/10	12:54:00	7	User login to application
+2016/02/10	12:54:00	7	User opens initial screen
+2016/02/10	13:14:23	7	User opens initial screen
+2016/02/10	13:16:41	7	Administrator registers a new user
+2016/02/10	13:17:04	7	User logout
+2016/02/10	13:17:38	280	User login to application
+2016/02/10	13:17:43	280	User doesn't agree with term of use
+2016/02/10	13:18:07	280	User login to application
+2016/02/10	13:18:11	280	User doesn't agree with term of use
+2016/02/10	13:18:49	280	User login to application
+2016/02/10	13:18:53	280	User doesn't agree with term of use
+2016/02/10	13:22:13	280	User login to application
+2016/02/10	13:22:14	280	User doesn't agree with term of use
+2016/02/10	13:22:28	280	User login to application
+2016/02/10	13:22:31	280	User agrees with term of use
+2016/02/10	13:22:31	280	User opens initial screen
+2016/02/10	14:04:27	280	User opens initial screen
+2016/02/10	14:10:35	280	User opens initial screen
+2016/02/10	14:15:18	280	User opens initial screen
+2016/02/10	14:17:28	280	User opens initial screen
+2016/02/10	14:18:41	280	User opens initial screen
+2016/02/10	14:20:02	280	User opens initial screen
+2016/02/10	14:25:22	280	User opens initial screen
+2016/02/10	14:27:43	280	User opens initial screen
+2016/02/10	14:28:54	280	User logout
+2016/02/10	14:29:05	280	User login to application
+2016/02/10	14:29:05	280	User opens initial screen
+2016/02/10	14:29:45	280	User opens initial screen
+2016/02/10	14:29:49	280	User logout
+2016/02/10	14:30:10	7	User login to application
+2016/02/10	14:30:10	7	User opens initial screen
+2016/02/10	14:32:07	7	User opens initial screen
+2016/02/10	14:35:59	280	User login to application
+2016/02/10	14:35:59	280	User opens initial screen
+2016/02/10	14:36:51	280	Upload a fertility map
+2016/02/10	14:37:20	280	Upload a fertility map
+2016/02/10	14:37:34	280	Update layer
+2016/02/10	14:37:39	280	Update layer
+2016/02/10	14:40:18	280	Administrator registers a new user
+2016/02/10	14:40:53	280	Move layer to bin folder
+2016/02/10	14:41:02	280	Move layer to bin folder
+2016/02/10	14:41:24	280	Upload a fertility map
+2016/02/10	14:42:16	280	User logout
+2016/02/10	14:42:28	281	User login to application
+2016/02/10	14:42:34	281	User agrees with term of use
+2016/02/10	14:42:34	281	User opens initial screen
+2016/02/10	14:42:44	281	User logout
+2016/02/10	14:42:54	280	User login to application
+2016/02/10	14:42:54	280	User opens initial screen
+2016/02/10	14:42:57	280	User clicks on a layer
+2016/02/10	14:43:06	280	Update layer
+2016/02/10	14:43:08	280	User logout
+2016/02/10	14:43:22	281	User login to application
+2016/02/10	14:43:22	281	User opens initial screen
+2016/02/10	14:43:47	281	User selects mode ALL and open form to create new a fertilizer map
+2016/02/10	14:43:47	281	User clicks on a layer
+2016/02/10	14:44:10	281	Specify condition to create fertilizer map
+2016/02/10	14:44:12	281	Open specified screen to create conditions for fertilizer map 
+2016/02/10	14:45:50	281	Create new a layer
+2016/02/10	14:45:50	281	Specify condition to create fertilizer map
+2016/02/10	14:45:54	281	User clicks on a layer
+2016/02/10	14:46:17	281	User exports fertilizer map to PDF file
+2016/02/10	14:54:11	281	User opens initial screen
+2016/02/10	14:54:12	281	User clicks on a layer
+2016/02/10	14:55:10	281	Create a record for history of download fertilizer map
+2016/02/10	14:55:11	281	Download fertilizer map
+2016/02/10	14:55:36	281	Create a record for history of download fertilizer map
+2016/02/10	14:55:36	281	Download fertilizer map
+2016/02/10	16:37:27	281	User logout
+2016/02/10	16:37:49	280	User login to application
+2016/02/10	16:37:49	280	User opens initial screen
+2016/02/10	16:37:52	280	User clicks on a layer
+2016/02/10	16:38:39	280	Upload a fertility map
+2016/02/10	16:39:04	280	Update layer
+2016/02/10	16:39:08	280	User logout
+2016/02/10	16:39:22	281	User login to application
+2016/02/10	16:39:23	281	User opens initial screen
+2016/02/10	16:39:23	281	User clicks on a layer
+2016/02/10	16:39:29	281	User clicks on a layer
+2016/02/10	16:40:00	281	User selects mode ALL and open form to create new a fertilizer map
+2016/02/10	16:40:00	281	User clicks on a layer
+2016/02/10	16:40:17	281	Specify condition to create fertilizer map
+2016/02/10	16:40:42	281	User clicks on a layer
+2016/02/10	16:40:45	281	User clicks on a layer
+2016/02/10	16:40:53	281	User selects mode ALL and open form to create new a fertilizer map
+2016/02/10	16:40:53	281	User clicks on a layer
+2016/02/10	16:41:04	281	Specify condition to create fertilizer map
+2016/02/10	16:41:22	281	User clicks on a layer
+2016/02/10	16:41:23	281	User clicks on a layer
+2016/02/10	16:41:31	281	User selects mode ALL and open form to create new a fertilizer map
+2016/02/10	16:41:31	281	User clicks on a layer
+2016/02/10	16:41:39	281	Specify condition to create fertilizer map
+2016/02/10	16:41:42	281	Open specified screen to create conditions for fertilizer map 
+2016/02/10	16:41:51	281	User clicks on a layer
+2016/02/10	16:41:58	281	User selects mode ALL and open form to create new a fertilizer map
+2016/02/10	16:41:58	281	User clicks on a layer
+2016/02/10	16:42:09	281	Specify condition to create fertilizer map
+2016/02/10	16:47:38	281	User logout
+2016/02/10	16:47:47	280	User login to application
+2016/02/10	16:47:47	280	User opens initial screen
+2016/02/10	16:47:48	280	User clicks on a layer
+2016/02/10	16:48:14	280	Upload a fertility map
+2016/02/10	16:48:23	280	Update layer
+2016/02/10	16:48:26	280	User logout
+2016/02/10	16:48:35	281	User login to application
+2016/02/10	16:48:35	281	User opens initial screen
+2016/02/10	16:48:35	281	User clicks on a layer
+2016/02/10	16:48:45	281	Update layer information
+2016/02/10	16:48:46	281	User clicks on a layer
+2016/02/10	16:48:48	281	User clicks on a layer
+2016/02/10	16:48:54	281	User exports fertilizer map to PDF file
+2016/02/10	16:49:01	281	User opens initial screen
+2016/02/10	16:49:02	281	User clicks on a layer
+2016/02/10	16:49:19	281	User selects mode ALL and open form to create new a fertilizer map
+2016/02/10	16:49:19	281	User clicks on a layer
+2016/02/10	16:49:32	281	Specify condition to create fertilizer map
+2016/02/10	16:50:16	281	User selects mode ALL and open form to create new a fertilizer map
+2016/02/10	16:50:16	281	User clicks on a layer
+2016/02/10	16:50:23	281	Specify condition to create fertilizer map
+2016/02/10	16:50:25	281	Open specified screen to create conditions for fertilizer map 
+2016/02/10	16:50:46	281	User selects mode ALL and open form to create new a fertilizer map
+2016/02/10	16:50:46	281	User clicks on a layer
+2016/02/10	16:51:01	281	Specify condition to create fertilizer map
+2016/02/10	16:51:03	281	Open specified screen to create conditions for fertilizer map 
+2016/02/10	16:53:03	281	User selects mode ALL and open form to create new a fertilizer map
+2016/02/10	16:53:03	281	User clicks on a layer
+2016/02/10	16:53:15	281	Specify condition to create fertilizer map
+2016/02/10	16:53:36	281	User selects mode ALL and open form to create new a fertilizer map
+2016/02/10	16:53:36	281	User clicks on a layer
+2016/02/10	16:53:46	281	Specify condition to create fertilizer map
+2016/02/10	16:54:04	281	Specify condition to create fertilizer map
+2016/02/10	16:54:07	281	Open specified screen to create conditions for fertilizer map 
+2016/02/10	17:06:08	281	User logout
+2016/02/10	17:06:17	280	User login to application
+2016/02/10	17:06:17	280	User opens initial screen
+2016/02/10	17:06:18	280	User clicks on a layer
+2016/02/10	17:06:38	280	Upload a fertility map
+2016/02/10	17:06:53	280	Upload a fertility map
+2016/02/10	17:07:12	280	Upload a fertility map
+2016/02/10	17:07:19	280	Update layer
+2016/02/10	17:07:23	280	Update layer
+2016/02/10	17:07:27	280	Update layer
+2016/02/10	17:07:28	280	User logout
+2016/02/10	17:07:46	281	User login to application
+2016/02/10	17:07:46	281	User opens initial screen
+2016/02/10	17:07:47	281	User clicks on a layer
+2016/02/10	17:07:53	281	User clicks on a layer
+2016/02/10	17:07:56	281	User clicks on a layer
+2016/02/10	17:07:58	281	Update layer information
+2016/02/10	17:07:59	281	User clicks on a layer
+2016/02/10	17:08:01	281	Update layer information
+2016/02/10	17:08:02	281	User clicks on a layer
+2016/02/10	17:08:08	281	User clicks on a layer
+2016/02/10	17:08:21	281	User selects mode ALL and open form to create new a fertilizer map
+2016/02/10	17:08:21	281	User clicks on a layer
+2016/02/10	17:08:29	281	Specify condition to create fertilizer map
+2016/02/10	17:08:31	281	Open specified screen to create conditions for fertilizer map 
+2016/02/10	17:08:35	281	User clicks on a layer
+2016/02/10	17:08:38	281	Update layer information
+2016/02/10	17:08:38	281	User clicks on a layer
+2016/02/10	17:08:40	281	Update layer information
+2016/02/10	17:08:41	281	User clicks on a layer
+2016/02/10	17:08:47	281	Specify condition to create fertilizer map
+2016/02/10	17:08:51	281	User clicks on a layer
+2016/02/10	17:08:54	281	Update layer information
+2016/02/10	17:08:54	281	User clicks on a layer
+2016/02/10	17:08:58	281	Update layer information
+2016/02/10	17:08:58	281	User clicks on a layer
+2016/02/10	17:09:03	281	User clicks on a layer
+2016/02/10	17:09:05	281	Update layer information
+2016/02/10	17:09:06	281	User clicks on a layer
+2016/02/10	17:09:07	281	User clicks on a layer
+2016/02/10	17:09:09	281	User clicks on a layer
+2016/02/10	17:09:11	281	Update layer information
+2016/02/10	17:09:12	281	User clicks on a layer
+2016/02/10	17:09:14	281	User clicks on a layer
+2016/02/10	17:09:23	281	User selects mode ALL and open form to create new a fertilizer map
+2016/02/10	17:09:23	281	User clicks on a layer
+2016/02/10	17:09:29	281	Specify condition to create fertilizer map
+2016/02/10	17:09:31	281	Open specified screen to create conditions for fertilizer map 
+2016/02/10	17:09:36	281	User clicks on a layer
+2016/02/10	17:09:38	281	User clicks on a layer
+2016/02/10	17:09:40	281	Update layer information
+2016/02/10	17:09:41	281	User clicks on a layer
+2016/02/10	17:09:43	281	User clicks on a layer
+2016/02/10	17:09:44	281	User clicks on a layer
+2016/02/10	17:09:48	281	Update layer information
+2016/02/10	17:09:48	281	User clicks on a layer
+2016/02/10	17:09:53	281	Specify condition to create fertilizer map
+2016/02/10	17:10:06	281	Update layer information
+2016/02/10	17:10:12	281	Specify condition to create fertilizer map
+2016/02/10	17:10:16	281	User opens initial screen
+2016/02/10	17:10:17	281	User clicks on a layer
+2016/02/10	17:10:23	281	Update layer information
+2016/02/10	17:10:23	281	User clicks on a layer
+2016/02/10	17:10:29	281	Update layer information
+2016/02/10	17:10:30	281	User clicks on a layer
+2016/02/10	17:10:34	281	Update layer information
+2016/02/10	17:10:35	281	User clicks on a layer
+2016/02/10	17:10:36	281	User clicks on a layer
+2016/02/10	17:10:38	281	Update layer information
+2016/02/10	17:10:38	281	User clicks on a layer
+2016/02/10	17:10:43	281	Update layer information
+2016/02/10	17:10:44	281	User clicks on a layer
+2016/02/10	17:10:45	281	User clicks on a layer
+2016/02/10	17:10:47	281	Update layer information
+2016/02/10	17:10:48	281	User clicks on a layer
+2016/02/10	17:11:00	281	Update layer information
+2016/02/10	17:11:01	281	User clicks on a layer
+2016/02/10	17:11:20	281	Update layer information
+2016/02/10	17:11:23	281	Update layer information
+2016/02/10	17:11:24	281	User clicks on a layer
+2016/02/10	17:11:33	281	Update layer information
+2016/02/10	17:11:33	281	User clicks on a layer
+2016/02/10	17:11:40	281	Update layer information
+2016/02/10	17:11:40	281	User clicks on a layer
+2016/02/10	17:11:51	281	User selects mode ALL and open form to create new a fertilizer map
+2016/02/10	17:11:51	281	User clicks on a layer
+2016/02/10	17:11:59	281	Specify condition to create fertilizer map
+2016/02/10	17:12:01	281	Open specified screen to create conditions for fertilizer map 
+2016/02/10	17:12:18	281	User logout
+2016/02/10	17:12:30	280	User login to application
+2016/02/10	17:12:30	280	User opens initial screen
+2016/02/10	17:12:31	280	User clicks on a layer
+2016/02/10	17:12:54	280	Upload a fertility map
+2016/02/10	17:13:01	280	Update layer
+2016/02/10	17:13:03	280	User logout
+2016/02/10	17:13:15	280	User login to application
+2016/02/10	17:13:15	280	User opens initial screen
+2016/02/10	17:13:15	280	User clicks on a layer
+2016/02/10	17:13:30	280	User opens initial screen
+2016/02/10	17:13:31	280	User clicks on a layer
+2016/02/10	17:13:35	280	Update layer information
+2016/02/10	17:13:36	280	User clicks on a layer
+2016/02/10	17:13:38	280	Update layer information
+2016/02/10	17:13:39	280	User clicks on a layer
+2016/02/10	17:13:40	280	Update layer information
+2016/02/10	17:13:41	280	User clicks on a layer
+2016/02/10	17:13:53	280	User clicks on a layer
+2016/02/10	17:14:06	280	User selects mode ALL and open form to create new a fertilizer map
+2016/02/10	17:14:06	280	User clicks on a layer
+2016/02/10	17:14:16	280	Specify condition to create fertilizer map
+2016/02/10	17:14:18	280	Open specified screen to create conditions for fertilizer map 
+2016/02/10	17:14:28	280	Update layer information
+2016/02/10	17:14:29	280	User clicks on a layer
+2016/02/10	17:14:31	280	Update layer information
+2016/02/10	17:14:32	280	User clicks on a layer
+2016/02/10	17:14:50	280	User selects mode ALL and open form to create new a fertilizer map
+2016/02/10	17:14:50	280	User clicks on a layer
+2016/02/10	17:14:58	280	Specify condition to create fertilizer map
+2016/02/10	17:16:48	280	Upload a fertility map
+2016/02/10	17:16:57	280	Update layer
+2016/02/10	17:16:59	280	User logout
+2016/02/10	17:17:11	281	User login to application
+2016/02/10	17:17:11	281	User opens initial screen
+2016/02/10	17:17:12	281	User clicks on a layer
+2016/02/10	17:17:17	281	Update layer information
+2016/02/10	17:17:18	281	User clicks on a layer
+2016/02/10	17:17:33	281	User selects mode ALL and open form to create new a fertilizer map
+2016/02/10	17:17:33	281	User clicks on a layer
+2016/02/10	17:17:39	281	Specify condition to create fertilizer map
+2016/02/10	17:24:07	281	User clicks on a layer
+2016/02/10	17:24:10	281	Update layer information
+2016/02/10	17:24:11	281	User clicks on a layer
+2016/02/10	17:24:38	281	User clicks on a layer
+2016/02/10	17:24:40	281	Update layer information
+2016/02/10	17:24:40	281	User clicks on a layer
+2016/02/10	17:24:45	281	User clicks on a layer
+2016/02/10	17:24:57	281	User selects mode ALL and open form to create new a fertilizer map
+2016/02/10	17:24:57	281	User clicks on a layer
+2016/02/10	17:25:09	281	Specify condition to create fertilizer map
+2016/02/10	17:25:12	281	Open specified screen to create conditions for fertilizer map 
+2016/02/10	17:26:30	281	Create new a layer
+2016/02/10	17:26:30	281	Specify condition to create fertilizer map
+2016/02/10	17:26:34	281	User clicks on a layer
+2016/02/10	17:26:45	281	User clicks on a layer
+2016/02/10	17:26:55	281	Update layer information
+2016/02/10	17:28:22	281	User exports fertilizer map to PDF file
+2016/02/10	17:28:29	281	User opens initial screen
+2016/02/10	17:28:30	281	User clicks on a layer
+2016/02/10	18:48:48	281	Create a record for history of download fertilizer map
+2016/02/10	18:48:48	281	Download fertilizer map

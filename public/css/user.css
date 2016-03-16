@@ -1,0 +1,50 @@
+.panel{
+	margin-top: 60px;
+}
+.forgot-password{
+	margin: 30px;
+	width: 32%;
+	text-align: right;
+	font-weight: bold;
+}
+
+.space_before_lable{
+	height: 20px;
+	width: 10%;
+	float: left;	
+}
+.reset-label {
+    margin-bottom: 0;
+    padding-top: 7px;
+    text-align: left;
+	float: left;
+	width: 140px;
+}
+.changing-label {
+  margin-bottom: 0;
+  padding-top: 3px;
+  text-align: left;
+  float: left;
+  width: 165px;
+}
+.reset-label {
+  margin-bottom: 0;
+  padding-top: 3px;
+  text-align: left;
+  float: left;
+  width: 164px;
+}
+.space_before_button{
+	height: 20px;
+	width: 256px;
+	float: left;	
+}
+.group_button{
+	float: left;
+}
+select[multiple],select[size]{
+    -moz-appearance:menu-item;
+    height:auto;
+    line-height: 25px
+}
+

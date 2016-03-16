@@ -1,0 +1,28 @@
+.form-header-column{
+	float: left;
+/* 	width: 500px; */
+}
+.fetilizer-label{
+	float: left;
+	width: 110px;
+}
+th.ui-th-column div {
+    white-space: normal !important;
+    height: auto !important;
+    padding: 2px;
+}
+.admin-standard{
+	
+	background: #edf url("images/ui-bg_inset-hard_100_fcfdfd_1x100.png") 30% bottom repeat-x;
+}
+td.default-detail {
+/*   	background-color: #ddd; */
+	color: red;
+	font-weight: bold !important;
+}
+.auto-fertilizer{
+	width: 82%;
+}
+.form-control-auto{
+	width: 100%;
+}

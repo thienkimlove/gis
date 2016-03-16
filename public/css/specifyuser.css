@@ -1,0 +1,15 @@
+.form-group{
+	float: left;
+	width: 260px;
+}
+.form-button{
+	float: left;
+	
+}
+.specifyuser-label{
+	width: 125px;
+}
+.button-spectify {
+	margin-top:0;
+	margin-left: -15px;
+}

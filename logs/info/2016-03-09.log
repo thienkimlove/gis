@@ -1,0 +1,28 @@
+年月日	時刻	ユーザコード	処理内容
+2016/03/09	16:46:55	7	User login to application
+2016/03/09	16:46:55	7	User opens initial screen
+2016/03/09	16:46:57	7	User clicks on a layer
+2016/03/09	16:49:50	7	User clicks on a layer
+2016/03/09	16:58:51	NULL	User doesn't agree with term of use
+2016/03/09	16:58:51	158	Guest login to application
+2016/03/09	16:58:54	158	User agrees with term of use
+2016/03/09	16:58:54	158	User opens initial screen
+2016/03/09	17:00:47	158	User logout
+2016/03/09	17:00:50	NULL	User doesn't agree with term of use
+2016/03/09	17:00:50	158	Guest login to application
+2016/03/09	17:00:53	158	User agrees with term of use
+2016/03/09	17:00:53	158	User opens initial screen
+2016/03/09	17:01:50	158	User logout
+2016/03/09	17:28:57	7	User logout
+2016/03/09	17:34:14	7	User login to application
+2016/03/09	17:34:14	7	User opens initial screen
+2016/03/09	17:34:15	7	User clicks on a layer
+2016/03/09	17:41:29	7	User opens initial screen
+2016/03/09	17:41:30	7	User clicks on a layer
+2016/03/09	17:41:44	7	User clicks on a layer
+2016/03/09	17:42:37	7	User selects mode ALL and open form to create new a fertilizer map
+2016/03/09	17:42:37	7	User clicks on a layer
+2016/03/09	17:42:48	7	Specify condition to create fertilizer map
+2016/03/09	17:42:50	7	Open specified screen to create conditions for fertilizer map 
+2016/03/09	17:43:44	7	User clicks on a layer
+2016/03/09	17:46:46	7	User clicks on a layer

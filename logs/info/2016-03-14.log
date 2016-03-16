@@ -1,0 +1,386 @@
+年月日	時刻	ユーザコード	処理内容
+2016/03/14	09:13:25	7	User login to application
+2016/03/14	09:13:25	7	User opens initial screen
+2016/03/14	09:13:31	7	User clicks on a layer
+2016/03/14	09:13:33	7	User clicks on a layer
+2016/03/14	09:28:02	7	User clicks on a layer
+2016/03/14	09:28:06	7	User clicks on a layer
+2016/03/14	09:28:27	7	User opens initial screen
+2016/03/14	09:28:28	7	User clicks on a layer
+2016/03/14	09:29:15	7	Administrator registers a new user
+2016/03/14	09:32:00	7	Upload a fertility map
+2016/03/14	09:39:16	7	Update layer information
+2016/03/14	09:39:23	7	Update layer
+2016/03/14	09:39:30	7	User logout
+2016/03/14	09:39:40	283	User login to application
+2016/03/14	09:39:55	283	User agrees with term of use
+2016/03/14	09:39:55	283	User opens initial screen
+2016/03/14	09:40:02	283	User clicks on a layer
+2016/03/14	09:40:04	283	User clicks on a layer
+2016/03/14	09:40:05	283	User clicks on a layer
+2016/03/14	09:40:07	283	User clicks on a layer
+2016/03/14	09:40:15	283	User clicks on a layer
+2016/03/14	09:40:17	283	User clicks on a layer
+2016/03/14	09:40:18	283	User clicks on a layer
+2016/03/14	09:40:21	283	User clicks on a layer
+2016/03/14	09:40:22	283	User clicks on a layer
+2016/03/14	09:40:37	283	User clicks on a layer
+2016/03/14	09:41:30	283	User logout
+2016/03/14	09:41:34	7	User login to application
+2016/03/14	09:41:34	7	User opens initial screen
+2016/03/14	09:41:35	7	User clicks on a layer
+2016/03/14	09:41:37	7	User clicks on a layer
+2016/03/14	09:41:38	7	User clicks on a layer
+2016/03/14	09:41:45	7	User clicks on a layer
+2016/03/14	09:41:49	7	Move layer to bin folder
+2016/03/14	09:41:50	7	User clicks on a layer
+2016/03/14	09:42:41	7	User clicks on a layer
+2016/03/14	09:48:26	7	User selects mode ALL and open form to create new a fertilizer map
+2016/03/14	09:48:26	7	User clicks on a layer
+2016/03/14	09:48:45	7	Specify condition to create fertilizer map
+2016/03/14	09:48:49	7	Open specified screen to create conditions for fertilizer map 
+2016/03/14	10:01:37	7	User selects mode ALL and open form to create new a fertilizer map
+2016/03/14	10:01:37	7	User clicks on a layer
+2016/03/14	10:01:45	7	Specify condition to create fertilizer map
+2016/03/14	10:01:47	7	Open specified screen to create conditions for fertilizer map 
+2016/03/14	10:03:58	7	Create new a layer
+2016/03/14	10:03:58	7	Specify condition to create fertilizer map
+2016/03/14	10:05:07	7	User clicks on a layer
+2016/03/14	10:05:09	7	User clicks on a layer
+2016/03/14	10:05:11	7	User clicks on a layer
+2016/03/14	10:05:12	7	User clicks on a layer
+2016/03/14	10:05:20	7	Specify condition to create fertilizer map
+2016/03/14	10:05:24	7	User clicks on a layer
+2016/03/14	10:05:26	7	User clicks on a layer
+2016/03/14	10:05:28	7	User clicks on a layer
+2016/03/14	10:05:33	7	User clicks on a layer
+2016/03/14	10:05:36	7	User clicks on a layer
+2016/03/14	10:05:38	7	User clicks on a layer
+2016/03/14	10:05:40	7	User clicks on a layer
+2016/03/14	10:05:46	7	View properties of fertilizer map
+2016/03/14	10:06:04	7	User exports fertilizer map to PDF file
+2016/03/14	10:06:14	7	User opens initial screen
+2016/03/14	10:06:16	7	User clicks on a layer
+2016/03/14	10:07:09	7	User clicks on a layer
+2016/03/14	10:13:03	7	User exports fertilizer map to PDF file
+2016/03/14	10:13:13	7	User opens initial screen
+2016/03/14	10:13:15	7	User clicks on a layer
+2016/03/14	10:13:18	7	User exports fertilizer map to PDF file
+2016/03/14	10:40:18	7	User login to application
+2016/03/14	10:40:18	7	User opens initial screen
+2016/03/14	10:40:22	7	User clicks on a layer
+2016/03/14	10:40:28	7	User clicks on a layer
+2016/03/14	10:40:31	7	User clicks on a layer
+2016/03/14	10:40:34	7	User clicks on a layer
+2016/03/14	10:40:35	7	User clicks on a layer
+2016/03/14	10:40:37	7	User clicks on a layer
+2016/03/14	10:40:38	7	User clicks on a layer
+2016/03/14	10:40:40	7	User clicks on a layer
+2016/03/14	10:40:43	7	User clicks on a layer
+2016/03/14	10:40:44	7	User clicks on a layer
+2016/03/14	10:40:46	7	User clicks on a layer
+2016/03/14	10:41:06	7	User clicks on a layer
+2016/03/14	10:41:58	7	User clicks on a layer
+2016/03/14	10:42:01	7	User exports fertilizer map to PDF file
+2016/03/14	10:43:12	7	User opens initial screen
+2016/03/14	10:43:14	7	User clicks on a layer
+2016/03/14	10:43:17	7	User clicks on a layer
+2016/03/14	10:43:22	7	User clicks on a layer
+2016/03/14	10:43:24	7	User clicks on a layer
+2016/03/14	10:43:31	7	User exports fertilizer map to PDF file
+2016/03/14	10:43:47	7	User opens initial screen
+2016/03/14	10:43:48	7	User clicks on a layer
+2016/03/14	10:56:06	7	User opens initial screen
+2016/03/14	10:56:07	7	User clicks on a layer
+2016/03/14	10:56:12	7	User clicks on a layer
+2016/03/14	10:56:17	7	User clicks on a layer
+2016/03/14	10:56:42	7	User clicks on a layer
+2016/03/14	10:56:43	7	User clicks on a layer
+2016/03/14	10:56:46	7	User opens initial screen
+2016/03/14	10:56:47	7	User clicks on a layer
+2016/03/14	10:58:04	7	User clicks on a layer
+2016/03/14	10:58:17	7	User clicks on a layer
+2016/03/14	10:58:26	7	User selects mode ALL and open form to create new a fertilizer map
+2016/03/14	10:58:26	7	User clicks on a layer
+2016/03/14	10:58:43	7	Specify condition to create fertilizer map
+2016/03/14	10:58:48	7	Open specified screen to create conditions for fertilizer map 
+2016/03/14	10:59:09	7	User selects mode ALL and open form to create new a fertilizer map
+2016/03/14	10:59:09	7	User clicks on a layer
+2016/03/14	10:59:28	7	Specify condition to create fertilizer map
+2016/03/14	11:00:28	7	Open specified screen to create conditions for fertilizer map 
+2016/03/14	11:01:39	7	User updates fertilizer standard
+2016/03/14	11:02:27	7	User updates fertilizer standard
+2016/03/14	11:02:36	7	User opens initial screen
+2016/03/14	11:02:37	7	User clicks on a layer
+2016/03/14	11:02:39	7	User clicks on a layer
+2016/03/14	11:02:56	7	User selects mode ALL and open form to create new a fertilizer map
+2016/03/14	11:02:56	7	User clicks on a layer
+2016/03/14	11:03:09	7	Specify condition to create fertilizer map
+2016/03/14	11:03:12	7	Open specified screen to create conditions for fertilizer map 
+2016/03/14	11:03:37	7	User clicks on a layer
+2016/03/14	11:03:44	7	User clicks on a layer
+2016/03/14	11:03:58	7	User clicks on a layer
+2016/03/14	11:04:02	7	User clicks on a layer
+2016/03/14	11:05:13	7	Create new a layer
+2016/03/14	11:05:13	7	Specify condition to create fertilizer map
+2016/03/14	11:06:21	7	User clicks on a layer
+2016/03/14	11:06:25	7	User clicks on a layer
+2016/03/14	11:06:26	7	User clicks on a layer
+2016/03/14	11:07:44	7	User clicks on a layer
+2016/03/14	11:07:47	7	User clicks on a layer
+2016/03/14	11:07:49	7	User clicks on a layer
+2016/03/14	11:07:50	7	User clicks on a layer
+2016/03/14	11:07:52	7	User clicks on a layer
+2016/03/14	11:07:53	7	User clicks on a layer
+2016/03/14	11:07:53	7	User clicks on a layer
+2016/03/14	11:07:59	7	User clicks on a layer
+2016/03/14	11:08:01	7	User clicks on a layer
+2016/03/14	11:08:01	7	User clicks on a layer
+2016/03/14	11:08:02	7	User clicks on a layer
+2016/03/14	11:08:04	7	User opens initial screen
+2016/03/14	11:08:05	7	User clicks on a layer
+2016/03/14	11:08:05	7	User clicks on a layer
+2016/03/14	11:08:06	7	User clicks on a layer
+2016/03/14	11:08:07	7	User clicks on a layer
+2016/03/14	11:08:08	7	User clicks on a layer
+2016/03/14	11:08:09	7	User clicks on a layer
+2016/03/14	11:08:11	7	User clicks on a layer
+2016/03/14	11:08:12	7	User clicks on a layer
+2016/03/14	11:08:12	7	User clicks on a layer
+2016/03/14	11:08:13	7	User clicks on a layer
+2016/03/14	11:08:14	7	User clicks on a layer
+2016/03/14	11:08:15	7	User clicks on a layer
+2016/03/14	11:08:16	7	User clicks on a layer
+2016/03/14	11:08:16	7	User clicks on a layer
+2016/03/14	11:08:19	7	User clicks on a layer
+2016/03/14	11:08:20	7	User clicks on a layer
+2016/03/14	11:08:23	7	User clicks on a layer
+2016/03/14	11:08:24	7	User clicks on a layer
+2016/03/14	11:08:40	7	User clicks on a layer
+2016/03/14	11:08:48	7	User clicks on a layer
+2016/03/14	11:10:02	7	User clicks on a layer
+2016/03/14	11:10:05	7	User clicks on a layer
+2016/03/14	11:10:08	7	User clicks on a layer
+2016/03/14	11:10:09	7	User clicks on a layer
+2016/03/14	11:10:11	7	User clicks on a layer
+2016/03/14	11:10:13	7	User clicks on a layer
+2016/03/14	11:10:28	7	User clicks on a layer
+2016/03/14	11:11:19	7	User clicks on a layer
+2016/03/14	11:11:55	7	User clicks on a layer
+2016/03/14	11:12:01	7	User logout
+2016/03/14	11:12:14	7	User login to application
+2016/03/14	11:12:14	7	User opens initial screen
+2016/03/14	11:12:15	7	User clicks on a layer
+2016/03/14	11:12:30	7	User clicks on a layer
+2016/03/14	11:12:31	7	User clicks on a layer
+2016/03/14	11:12:33	7	User clicks on a layer
+2016/03/14	11:12:34	7	User clicks on a layer
+2016/03/14	11:12:36	7	User clicks on a layer
+2016/03/14	11:12:37	7	User clicks on a layer
+2016/03/14	11:12:38	7	User clicks on a layer
+2016/03/14	11:12:39	7	User clicks on a layer
+2016/03/14	11:13:03	7	User logout
+2016/03/14	11:13:07	280	User login to application
+2016/03/14	11:13:07	280	User opens initial screen
+2016/03/14	11:13:09	280	User clicks on a layer
+2016/03/14	11:13:20	7	User clicks on a layer
+2016/03/14	11:13:35	280	User clicks on a layer
+2016/03/14	11:13:44	280	User selects mode ALL and open form to create new a fertilizer map
+2016/03/14	11:13:44	280	User clicks on a layer
+2016/03/14	11:13:51	280	Specify condition to create fertilizer map
+2016/03/14	11:13:53	280	Open specified screen to create conditions for fertilizer map 
+2016/03/14	11:14:29	280	Create new a layer
+2016/03/14	11:14:29	280	Specify condition to create fertilizer map
+2016/03/14	11:15:35	280	User clicks on a layer
+2016/03/14	11:15:37	7	User opens initial screen
+2016/03/14	11:15:39	7	User clicks on a layer
+2016/03/14	11:15:45	280	User clicks on a layer
+2016/03/14	11:15:53	280	User clicks on a layer
+2016/03/14	11:15:55	280	User clicks on a layer
+2016/03/14	11:15:56	280	User clicks on a layer
+2016/03/14	11:15:59	280	User clicks on a layer
+2016/03/14	11:16:02	280	User clicks on a layer
+2016/03/14	11:16:04	280	User clicks on a layer
+2016/03/14	11:16:07	280	User clicks on a layer
+2016/03/14	11:16:08	280	User clicks on a layer
+2016/03/14	11:21:20	7	User clicks on a layer
+2016/03/14	11:21:42	7	User selects mode ALL and open form to create new a fertilizer map
+2016/03/14	11:21:42	7	User clicks on a layer
+2016/03/14	11:21:55	7	Specify condition to create fertilizer map
+2016/03/14	11:21:58	7	Open specified screen to create conditions for fertilizer map 
+2016/03/14	11:22:34	7	Create new a layer
+2016/03/14	11:22:34	7	Specify condition to create fertilizer map
+2016/03/14	11:23:41	7	User clicks on a layer
+2016/03/14	11:23:51	7	User clicks on a layer
+2016/03/14	11:23:53	7	User clicks on a layer
+2016/03/14	11:24:03	7	Move layer to bin folder
+2016/03/14	11:24:03	7	User clicks on a layer
+2016/03/14	11:25:50	7	User clicks on a layer
+2016/03/14	11:25:52	7	User clicks on a layer
+2016/03/14	11:25:53	7	User clicks on a layer
+2016/03/14	11:25:54	7	User clicks on a layer
+2016/03/14	11:25:58	7	User clicks on a layer
+2016/03/14	11:26:03	7	User clicks on a layer
+2016/03/14	11:26:13	7	User selects mode ALL and open form to create new a fertilizer map
+2016/03/14	11:26:13	7	User clicks on a layer
+2016/03/14	11:26:22	7	Specify condition to create fertilizer map
+2016/03/14	11:26:25	7	Open specified screen to create conditions for fertilizer map 
+2016/03/14	11:26:57	7	Create new a layer
+2016/03/14	11:26:57	7	Specify condition to create fertilizer map
+2016/03/14	11:27:45	7	User login to application
+2016/03/14	11:27:45	7	User opens initial screen
+2016/03/14	11:27:49	7	User clicks on a layer
+2016/03/14	11:27:53	7	User clicks on a layer
+2016/03/14	11:29:01	7	User clicks on a layer
+2016/03/14	11:29:03	7	User clicks on a layer
+2016/03/14	11:29:05	7	User clicks on a layer
+2016/03/14	11:29:07	7	User clicks on a layer
+2016/03/14	11:29:08	7	User selects mode ALL and open form to create new a fertilizer map
+2016/03/14	11:29:08	7	User clicks on a layer
+2016/03/14	11:29:09	7	User clicks on a layer
+2016/03/14	11:29:21	7	User clicks on a layer
+2016/03/14	11:29:22	7	User clicks on a layer
+2016/03/14	11:29:25	7	Specify condition to create fertilizer map
+2016/03/14	11:29:28	7	Open specified screen to create conditions for fertilizer map 
+2016/03/14	11:30:06	7	User opens initial screen
+2016/03/14	11:30:10	7	User clicks on a layer
+2016/03/14	11:30:43	7	User clicks on a layer
+2016/03/14	11:30:51	7	User selects mode CONDITION and open form to create new a fertilizer map
+2016/03/14	11:30:59	7	User clicks on a layer
+2016/03/14	11:30:59	7	User selects mode ALL and open form to create new a fertilizer map
+2016/03/14	11:31:11	7	Specify condition to create fertilizer map
+2016/03/14	11:31:14	7	Open specified screen to create conditions for fertilizer map 
+2016/03/14	11:31:37	7	User clicks on a layer
+2016/03/14	11:31:38	7	User clicks on a layer
+2016/03/14	11:31:54	7	Create new a layer
+2016/03/14	11:31:54	7	Specify condition to create fertilizer map
+2016/03/14	11:33:36	7	User clicks on a layer
+2016/03/14	11:33:49	7	User clicks on a layer
+2016/03/14	11:38:11	7	User clicks on a layer
+2016/03/14	11:38:15	7	User clicks on a layer
+2016/03/14	11:38:18	7	User clicks on a layer
+2016/03/14	11:38:21	7	User clicks on a layer
+2016/03/14	11:38:22	7	User clicks on a layer
+2016/03/14	11:38:23	7	User clicks on a layer
+2016/03/14	11:38:29	7	User clicks on a layer
+2016/03/14	11:38:30	7	User clicks on a layer
+2016/03/14	11:38:31	7	User clicks on a layer
+2016/03/14	11:38:32	7	User clicks on a layer
+2016/03/14	11:38:35	7	User clicks on a layer
+2016/03/14	11:38:52	7	User clicks on a layer
+2016/03/14	11:38:53	7	User clicks on a layer
+2016/03/14	11:38:54	7	User clicks on a layer
+2016/03/14	11:54:41	7	User clicks on a layer
+2016/03/14	11:55:35	7	User opens initial screen
+2016/03/14	11:55:37	7	User clicks on a layer
+2016/03/14	11:57:51	7	User clicks on a layer
+2016/03/14	11:57:52	7	User clicks on a layer
+2016/03/14	11:57:54	7	User clicks on a layer
+2016/03/14	11:57:56	7	User clicks on a layer
+2016/03/14	11:57:57	7	User clicks on a layer
+2016/03/14	11:58:43	7	User clicks on a layer
+2016/03/14	11:58:44	7	User clicks on a layer
+2016/03/14	11:59:03	7	User selects mode ALL and open form to create new a fertilizer map
+2016/03/14	11:59:03	7	User clicks on a layer
+2016/03/14	11:59:10	7	Specify condition to create fertilizer map
+2016/03/14	11:59:13	7	Open specified screen to create conditions for fertilizer map 
+2016/03/14	11:59:36	7	Create new a layer
+2016/03/14	11:59:36	7	Specify condition to create fertilizer map
+2016/03/14	12:03:55	7	User clicks on a layer
+2016/03/14	12:04:00	7	User clicks on a layer
+2016/03/14	12:04:01	7	User clicks on a layer
+2016/03/14	12:04:11	7	User clicks on a layer
+2016/03/14	12:04:19	7	User selects mode ALL and open form to create new a fertilizer map
+2016/03/14	12:04:19	7	User clicks on a layer
+2016/03/14	12:04:25	7	Specify condition to create fertilizer map
+2016/03/14	12:04:27	7	Open specified screen to create conditions for fertilizer map 
+2016/03/14	12:04:57	7	Create new a layer
+2016/03/14	12:04:57	7	Specify condition to create fertilizer map
+2016/03/14	12:06:05	7	User clicks on a layer
+2016/03/14	12:06:11	7	User clicks on a layer
+2016/03/14	12:06:12	7	User clicks on a layer
+2016/03/14	12:06:14	7	User clicks on a layer
+2016/03/14	12:06:16	7	User clicks on a layer
+2016/03/14	12:15:00	7	User clicks on a layer
+2016/03/14	12:15:03	7	User clicks on a layer
+2016/03/14	12:15:11	7	Specify condition to create fertilizer map
+2016/03/14	12:15:14	7	Open specified screen to create conditions for fertilizer map 
+2016/03/14	12:15:43	7	Create new a layer
+2016/03/14	12:15:43	7	Specify condition to create fertilizer map
+2016/03/14	12:16:56	7	User clicks on a layer
+2016/03/14	12:17:03	7	User clicks on a layer
+2016/03/14	12:17:04	7	User clicks on a layer
+2016/03/14	12:17:07	7	User clicks on a layer
+2016/03/14	12:17:08	7	User clicks on a layer
+2016/03/14	12:17:11	7	User clicks on a layer
+2016/03/14	12:17:12	7	User clicks on a layer
+2016/03/14	12:20:32	7	User logout
+2016/03/14	12:20:41	7	User login to application
+2016/03/14	12:20:41	7	User opens initial screen
+2016/03/14	12:20:42	7	User clicks on a layer
+2016/03/14	12:20:45	7	User clicks on a layer
+2016/03/14	12:20:46	7	User clicks on a layer
+2016/03/14	12:20:51	7	User clicks on a layer
+2016/03/14	12:21:04	7	User selects mode ALL and open form to create new a fertilizer map
+2016/03/14	12:21:04	7	User clicks on a layer
+2016/03/14	12:21:10	7	Specify condition to create fertilizer map
+2016/03/14	12:21:12	7	Open specified screen to create conditions for fertilizer map 
+2016/03/14	12:21:37	7	Create new a layer
+2016/03/14	12:21:37	7	Specify condition to create fertilizer map
+2016/03/14	12:22:45	7	User clicks on a layer
+2016/03/14	12:22:49	7	User clicks on a layer
+2016/03/14	12:22:50	7	User clicks on a layer
+2016/03/14	12:22:53	7	User clicks on a layer
+2016/03/14	12:22:54	7	User clicks on a layer
+2016/03/14	12:26:28	7	User opens initial screen
+2016/03/14	12:26:35	7	User clicks on a layer
+2016/03/14	12:26:39	7	User logout
+2016/03/14	14:31:02	7	User login to application
+2016/03/14	14:31:02	7	User opens initial screen
+2016/03/14	14:31:07	7	User clicks on a layer
+2016/03/14	14:31:32	7	User opens initial screen
+2016/03/14	14:31:34	7	User clicks on a layer
+2016/03/14	14:32:00	7	User clicks on a layer
+2016/03/14	14:32:04	7	User clicks on a layer
+2016/03/14	14:32:10	7	User clicks on a layer
+2016/03/14	14:32:11	7	User clicks on a layer
+2016/03/14	14:32:24	7	User selects mode ALL and open form to create new a fertilizer map
+2016/03/14	14:32:24	7	User clicks on a layer
+2016/03/14	14:32:30	7	Specify condition to create fertilizer map
+2016/03/14	14:32:33	7	Open specified screen to create conditions for fertilizer map 
+2016/03/14	14:32:55	7	Create new a layer
+2016/03/14	14:32:55	7	Specify condition to create fertilizer map
+2016/03/14	14:33:00	7	User clicks on a layer
+2016/03/14	14:36:36	7	User opens initial screen
+2016/03/14	14:36:38	7	User clicks on a layer
+2016/03/14	14:38:27	7	User clicks on a layer
+2016/03/14	14:38:35	7	User selects mode ALL and open form to create new a fertilizer map
+2016/03/14	14:38:35	7	User clicks on a layer
+2016/03/14	14:38:39	7	Specify condition to create fertilizer map
+2016/03/14	14:38:42	7	Open specified screen to create conditions for fertilizer map 
+2016/03/14	14:39:01	7	Create new a layer
+2016/03/14	14:39:01	7	Specify condition to create fertilizer map
+2016/03/14	14:39:05	7	User clicks on a layer
+2016/03/14	14:48:01	7	User opens initial screen
+2016/03/14	14:48:03	7	User clicks on a layer
+2016/03/14	14:48:07	7	User clicks on a layer
+2016/03/14	14:48:09	7	User clicks on a layer
+2016/03/14	14:48:10	7	User clicks on a layer
+2016/03/14	14:48:12	7	User clicks on a layer
+2016/03/14	14:48:24	7	User selects mode ALL and open form to create new a fertilizer map
+2016/03/14	14:48:24	7	User clicks on a layer
+2016/03/14	14:48:30	7	Specify condition to create fertilizer map
+2016/03/14	14:48:32	7	Open specified screen to create conditions for fertilizer map 
+2016/03/14	14:48:53	7	Create new a layer
+2016/03/14	14:48:53	7	Specify condition to create fertilizer map
+2016/03/14	14:48:56	7	User clicks on a layer
+2016/03/14	15:43:43	282	User login to application
+2016/03/14	15:43:43	282	User opens initial screen
+2016/03/14	15:44:01	282	User opens initial screen
+2016/03/14	15:44:22	282	User opens initial screen
+2016/03/14	15:54:08	282	User logout
+2016/03/14	15:54:39	282	User login to application
+2016/03/14	15:54:39	282	User opens initial screen
+2016/03/14	15:55:48	282	User logout
+2016/03/14	16:26:50	282	User login to application
+2016/03/14	16:26:50	282	User opens initial screen

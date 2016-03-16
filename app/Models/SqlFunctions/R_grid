@@ -1,0 +1,6 @@
+DROP TYPE IF EXISTS R_Grid CASCADE;
+CREATE TYPE R_Grid AS (
+  mix JSON,
+  geo GEOMETRY,
+  code JSON
+);

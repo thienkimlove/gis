@@ -1,0 +1,79 @@
+MAP
+    NAME "$MAP_NAME$"
+    SIZE $MAP_SIZE$
+    STATUS ON
+    CONFIG "MS_ERRORFILE" "/var/www/html/map/tmp/newmap.txt"
+    FONTSET "/var/www/html/map/font/font.list"
+    DEBUG 5
+    EXTENT 15666363.004307 5260530.935811 15946240.559036 5350679.406849
+    PROJECTION
+      AUTO
+    END
+
+    WEB
+        IMAGEPATH "$MAP_IMAGE_PATH$"
+        IMAGEURL "$MAP_IMAGE_TMP_URL$"
+        METADATA
+          "ows_enable_request" "*"
+          "wms_title" "WMS GIS Server"
+          "wms_onlineresource" "$MAP_RESOURCE_URL$"
+          "wms_srs" "EPSG:2455 EPSG:2454 EPSG:2456 EPSG:4326 EPSG:3857"
+        END
+    END
+    OUTPUTFORMAT
+         NAME png
+         DRIVER AGG/PNG
+         MIMETYPE "image/png"
+         IMAGEMODE RGBA
+         EXTENSION "png"
+         FORMATOPTION "GAMMA=0.75"
+         TRANSPARENT ON
+    END
+    LEGEND
+        KEYSIZE 13 13
+        STATUS ON
+        LABEL
+           TYPE TRUETYPE
+           FONT kochi-mincho
+           COLOR 0 0 89
+           SIZE large
+           MINSIZE 11
+           POSITION CL
+           PARTIALS FALSE
+           BUFFER 0
+           ENCODING SHIFT_JIS
+         END
+    END
+    $MAP_LAYERS$
+
+    LAYER
+        NAME "All rasters 25"
+        GROUP "raster25"
+        METADATA
+          "wms_title" "All rasters 25"
+          "wms_srs" "EPSG:2455 EPSG:2454 EPSG:2456 EPSG:4326 EPSG:3857"
+        END
+        TYPE RASTER
+        PROCESSING "NODATA=0"
+        STATUS ON
+        DEBUG 5
+        TILEINDEX "/var/www/html/map/raster/gisRaster25.shp"
+        TILEITEM "LOCATION"
+        TILESRS "src_srs"
+    END
+     LAYER
+            NAME "All rasters 50"
+            GROUP "raster50"
+            METADATA
+              "wms_title" "All rasters 50"
+              "wms_srs" "EPSG:2455 EPSG:2454 EPSG:2456 EPSG:4326 EPSG:3857"
+            END
+            TYPE RASTER
+            PROCESSING "NODATA=0"
+            STATUS ON
+            DEBUG 5
+            TILEINDEX "/var/www/html/map/raster/gisRaster50.shp"
+            TILEITEM "LOCATION"
+            TILESRS "src_srs"
+        END
+END

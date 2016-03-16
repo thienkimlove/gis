@@ -1,0 +1,155 @@
+年月日	時刻	ユーザコード	処理内容
+2016/02/02	09:20:45	7	User login to application
+2016/02/02	09:20:46	7	User opens initial screen
+2016/02/02	10:36:46	NULL	User doesn't agree with term of use
+2016/02/02	10:36:46	158	Guest login to application
+2016/02/02	10:36:48	158	User agrees with term of use
+2016/02/02	10:36:49	158	User opens initial screen
+2016/02/02	10:36:56	158	User opens initial screen
+2016/02/02	10:36:58	158	User opens initial screen
+2016/02/02	10:37:00	158	User logout
+2016/02/02	10:37:13	7	User login to application
+2016/02/02	10:37:13	7	User opens initial screen
+2016/02/02	10:57:50	7	Update folder information or set permission for folder
+2016/02/02	10:58:17	7	Update folder information or set permission for folder
+2016/02/02	10:59:29	7	Update folder information or set permission for folder
+2016/02/02	10:59:47	7	Update folder information or set permission for folder
+2016/02/02	11:00:12	7	Update folder information or set permission for folder
+2016/02/02	11:00:33	7	Update folder information or set permission for folder
+2016/02/02	11:01:23	7	Add new a terrain layer
+2016/02/02	11:01:31	7	User opens initial screen
+2016/02/02	11:01:52	7	User logout
+2016/02/02	11:02:06	7	User login to application
+2016/02/02	11:02:06	7	User opens initial screen
+2016/02/02	11:02:48	7	User logout
+2016/02/02	11:02:51	NULL	User doesn't agree with term of use
+2016/02/02	11:02:51	158	Guest login to application
+2016/02/02	11:02:53	158	User agrees with term of use
+2016/02/02	11:02:53	158	User opens initial screen
+2016/02/02	11:03:07	158	User logout
+2016/02/02	11:03:22	7	User login to application
+2016/02/02	11:03:22	7	User opens initial screen
+2016/02/02	11:03:59	7	Add new price unit of fertilizer map
+2016/02/02	20:05:32	7	Administrator updates an user
+2016/02/02	20:06:05	7	Administrator updates an user
+2016/02/02	20:09:47	7	User opens initial screen
+2016/02/02	20:10:07	7	Update folder information or set permission for folder
+2016/02/02	20:10:16	7	Update folder information or set permission for folder
+2016/02/02	20:10:25	7	Update folder information or set permission for folder
+2016/02/02	20:10:41	7	Update folder information or set permission for folder
+2016/02/02	20:10:49	7	Update folder information or set permission for folder
+2016/02/02	20:11:15	7	Update folder information or set permission for folder
+2016/02/02	20:12:25	7	Update folder information or set permission for folder
+2016/02/02	20:12:34	7	Update folder information or set permission for folder
+2016/02/02	20:12:37	7	User opens initial screen
+2016/02/02	20:14:40	7	User clicks on a layer
+2016/02/02	20:16:28	7	User opens initial screen
+2016/02/02	11:22:41	7	User opens initial screen
+2016/02/02	11:23:53	7	User clicks on a layer
+2016/02/02	11:27:42	7	User clicks on a layer
+2016/02/02	11:33:04	7	User opens initial screen
+2016/02/02	11:37:16	7	Administrator creates new an user group
+2016/02/02	11:37:33	7	Administrator updates an user group
+2016/02/02	11:38:12	7	Administrator updates an user group
+2016/02/02	11:38:29	7	Administrator updates an user group
+2016/02/02	11:39:18	7	Update folder information or set permission for folder
+2016/02/02	11:39:38	7	Update folder information or set permission for folder
+2016/02/02	11:39:55	7	Update folder information or set permission for folder
+2016/02/02	11:40:03	7	Update folder information or set permission for folder
+2016/02/02	11:40:05	7	User opens initial screen
+2016/02/02	11:41:27	7	Specify permission for user group
+2016/02/02	11:41:30	7	User opens initial screen
+2016/02/02	11:43:21	7	Administrator registers a new user
+2016/02/02	11:44:28	7	Upload a fertility map
+2016/02/02	11:44:35	7	User opens initial screen
+2016/02/02	11:44:37	7	User clicks on a layer
+2016/02/02	11:44:39	7	User clicks on a layer
+2016/02/02	11:44:43	7	User clicks on a layer
+2016/02/02	11:44:46	7	User clicks on a layer
+2016/02/02	11:45:05	7	User clicks on a layer
+2016/02/02	11:45:20	7	User clicks on a layer
+2016/02/02	11:45:30	7	User clicks on a layer
+2016/02/02	11:45:51	7	User clicks on a layer
+2016/02/02	11:45:52	7	User clicks on a layer
+2016/02/02	11:48:31	7	User clicks on a layer
+2016/02/02	11:51:06	7	User opens initial screen
+2016/02/02	11:52:58	7	Update layer
+2016/02/02	11:52:59	7	User opens initial screen
+2016/02/02	11:53:23	7	User clicks on a layer
+2016/02/02	11:53:37	7	User clicks on a layer
+2016/02/02	11:53:39	7	User clicks on a layer
+2016/02/02	11:53:52	7	User selects mode ALL and open form to create new a fertilizer map
+2016/02/02	11:53:52	7	User clicks on a layer
+2016/02/02	11:54:04	7	User clicks on a layer
+2016/02/02	11:54:06	7	User clicks on a layer
+2016/02/02	11:55:04	7	Update folder information or set permission for folder
+2016/02/02	11:55:19	7	Update folder information or set permission for folder
+2016/02/02	11:55:30	7	Update folder information or set permission for folder
+2016/02/02	11:55:33	7	User opens initial screen
+2016/02/02	11:55:33	7	User clicks on a layer
+2016/02/02	11:55:36	7	User clicks on a layer
+2016/02/02	11:55:39	7	User clicks on a layer
+2016/02/02	11:55:58	7	User clicks on a layer
+2016/02/02	11:56:49	7	User clicks on a layer
+2016/02/02	11:56:52	7	User clicks on a layer
+2016/02/02	11:57:44	7	User clicks on a layer
+2016/02/02	11:58:58	7	User logout
+2016/02/02	11:59:00	NULL	User doesn't agree with term of use
+2016/02/02	11:59:00	158	Guest login to application
+2016/02/02	11:59:01	158	User agrees with term of use
+2016/02/02	11:59:01	158	User opens initial screen
+2016/02/02	11:59:11	158	User logout
+2016/02/02	11:59:38	7	User login to application
+2016/02/02	11:59:38	7	User opens initial screen
+2016/02/02	11:59:39	7	User clicks on a layer
+2016/02/02	11:59:41	7	User clicks on a layer
+2016/02/02	12:57:00	7	User opens initial screen
+2016/02/02	15:06:05	7	User login to application
+2016/02/02	15:06:06	7	User opens initial screen
+2016/02/02	15:06:10	7	User clicks on a layer
+2016/02/02	15:06:24	7	User clicks on a layer
+2016/02/02	15:17:32	7	User logout
+2016/02/02	15:17:34	NULL	User doesn't agree with term of use
+2016/02/02	15:17:34	158	Guest login to application
+2016/02/02	15:17:35	158	User agrees with term of use
+2016/02/02	15:17:35	158	User opens initial screen
+2016/02/02	15:18:11	158	User logout
+2016/02/02	15:28:08	7	User login to application
+2016/02/02	15:28:09	7	User opens initial screen
+2016/02/02	15:28:09	7	User clicks on a layer
+2016/02/02	15:30:25	NULL	User doesn't agree with term of use
+2016/02/02	15:30:25	158	Guest login to application
+2016/02/02	15:30:32	158	User agrees with term of use
+2016/02/02	15:30:32	158	User opens initial screen
+2016/02/02	15:31:37	7	Administrator registers a new user
+2016/02/02	15:31:49	7	User logout
+2016/02/02	15:34:14	7	User login to application
+2016/02/02	15:34:15	7	User opens initial screen
+2016/02/02	15:34:15	7	User clicks on a layer
+2016/02/02	15:34:34	7	Administrator updates an user
+2016/02/02	15:34:40	7	User logout
+2016/02/02	15:34:50	278	User login to application
+2016/02/02	15:34:53	278	User agrees with term of use
+2016/02/02	15:34:53	278	User opens initial screen
+2016/02/02	15:36:52	278	User logout
+2016/02/02	15:37:05	7	User login to application
+2016/02/02	15:37:05	7	User opens initial screen
+2016/02/02	15:37:06	7	User clicks on a layer
+2016/02/02	15:58:15	7	User clicks on a layer
+2016/02/02	15:58:56	7	User clicks on a layer
+2016/02/02	15:59:56	7	User clicks on a layer
+2016/02/02	16:00:09	7	User clicks on a layer
+2016/02/02	16:00:24	7	User clicks on a layer
+2016/02/02	16:05:47	7	User clicks on a layer
+2016/02/02	16:05:52	7	User clicks on a layer
+2016/02/02	16:51:19	7	Add new a terrain layer
+2016/02/02	16:51:33	7	Update folder information or set permission for folder
+2016/02/02	16:51:37	7	User opens initial screen
+2016/02/02	16:51:43	7	User clicks on a layer
+2016/02/02	19:03:01	7	User login to application
+2016/02/02	19:03:01	7	User opens initial screen
+2016/02/02	19:03:19	7	User clicks on a layer
+2016/02/02	19:03:21	7	User clicks on a layer
+2016/02/02	19:03:24	7	User clicks on a layer
+2016/02/02	19:03:29	7	User clicks on a layer
+2016/02/02	19:03:31	7	User clicks on a layer

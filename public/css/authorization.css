@@ -1,0 +1,32 @@
+.panel-header {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin: 5px 0;
+  padding-top: 10px;
+/*   width: 100%; */
+
+}
+
+.panel-header-usergrouptext{
+	margin: 0 10px 10px 30px;
+}
+table td{
+	
+  	border: 1px solid #ddd;
+	padding: 5px;	
+	
+}
+.column-checkbox{
+	text-align: center;
+}
+.tr-header{
+	background-color: #337ab7;
+	color: #fff;
+}
+.tr-odd{
+	
+	background-color: #eee;	
+}
+.block{
+	display: block;
+}
